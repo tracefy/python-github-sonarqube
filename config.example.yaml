@@ -1,0 +1,6 @@
+github_token: YOUR_GITHUB_TOKEN
+sonarqube_token: YOUR_SONARQUBE_TOKEN
+sonarqube_host: https://sonarqube.example.com
+organization: YOUR_ORGANIZATION_OR_USER_NAME
+alm_setting: "GitHub"
+runs_on: self-hosted
